@@ -34,3 +34,10 @@ A Human Pose Skeleton represents the orientation of a person in a graphical form
 2. **Pose estimation using openpose on video** 
 
 [![](http://i3.ytimg.com/vi/JrekUhYvGt4/hqdefault.jpg)](https://youtu.be/JrekUhYvGt4)
+
+# References
+
+1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
+2. [Moviepy](https://zulko.github.io/moviepy/)
+3. [Pytube](https://python-pytube.readthedocs.io/en/latest/)
+4. [Dancing AI](https://github.com/keshavoct98/DANCING-AI)
