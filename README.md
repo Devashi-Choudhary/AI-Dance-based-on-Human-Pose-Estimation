@@ -33,4 +33,4 @@ A Human Pose Skeleton represents the orientation of a person in a graphical form
 
 2. **Pose estimation using openpose on video** 
 
-![video](http://i3.ytimg.com/vi/JrekUhYvGt4/maxresdefault.jpg)
+![video](http://i3.ytimg.com/vi/JrekUhYvGt4/hqdefault.jpg)
