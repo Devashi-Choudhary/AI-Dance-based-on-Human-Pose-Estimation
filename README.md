@@ -23,7 +23,7 @@ A Human Pose Skeleton represents the orientation of a person in a graphical form
 4. Now go to src folder and run extract_data.py to download videos and audios to data folder. You can add youtube videos links to "video_links.txt" file for downloading. 
 5. Download pretrained weights for pose estimation from [here](https://drive.google.com/file/d/1WYWwZR_mtUSfRCR-Rwi0mDGNlL_Uvbei/view?usp=sharing). Download pose_iter_440000.caffemodel and save it in "models" folder.
 6. Run demo.py to train LSTM and display predicted dance video.
-> `python demo.py --video data/video.mp4 --audio data/audio.wav --background data/bg1.jpg `
+> `python main.py --video data/video.mp4 --audio data/audio.wav --background data/bg1.jpg `
 
 # Results
 
